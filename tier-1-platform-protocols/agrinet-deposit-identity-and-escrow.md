@@ -143,4 +143,4 @@ Every runtime result comes from the real Agrinet server code, run locally. A sta
 
 ---
 
-*Licensed under [Creative Commons Attribution-ShareAlike 4.0](../LICENSE).*
+*Licensed under the [GNU Affero General Public License, version 3 only](https://www.gnu.org/licenses/agpl-3.0.txt) (AGPL-3.0-only), under governance registry Entry 9.*
